@@ -4,7 +4,7 @@ I recently got a [Baofeng BF-F8HP](https://www.amazon.com/gp/aw/d/B00MAULSOK/). 
 
 I am using [CHIRP](http://chirp.danplanet.com/projects/chirp/wiki/Home) to program my BF-F8HP.
 
-I am new to ham radio and I would like to get my license.
+I am new to ham radio and I would like to get my license because I am interested in using radios. I think getting my license would be very practical.
 
 # Equipment
 * [Baofeng BF-F8HP](https://www.amazon.com/gp/aw/d/B00MAULSOK/)
